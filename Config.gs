@@ -5,10 +5,10 @@
  * @const {string} COLUMN_NAME - The name of the column containing email addresses.
  * @const {string} TARGET_FOLDER_ID - The ID of the Google Drive folder where attachments will be saved.
  */
-const SHEET_ID = '1L0GIgQFQpKyYYNLyiUQzaap9UeIbeqLU8LrQIY8sYC8';
+const SHEET_ID = '';
 const SHEET_NAME = 'EMAIL';
 const COLUMN_NAME = 'FROM';
-const TARGET_FOLDER_ID = '1GpoEtYoA2GjwQQUMSVCxjUiw2AYiaRm5';
+const TARGET_FOLDER_ID = '';
 
 /**
  * Retrieves configuration from script properties.
